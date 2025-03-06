@@ -17,3 +17,7 @@ This personal project analyzes the fascinating and daring helicopter escapes fro
 - **Pandas:** For data manipulation and analysis.
 - **Matplotlib and Seaborn:** For data visualization.
 - **Jupyter Notebook:** For an interactive analysis environment.
+
+
+## Visualizations
+[Visualization 1](images/head.jpg)
