@@ -20,4 +20,4 @@ This personal project analyzes the fascinating and daring helicopter escapes fro
 
 
 ## Visualizations
-![Overview of the Dataset](https://github.com/NelamallyNikhil/Nikhil_Portfolio/blob/main/images/head.jpg)
+![Overview of the Dataset](https://drive.google.com/file/d/1RCooku3qLZMuXREZoXzH7xxFPKB9mvTN/view?usp=sharing)
